@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1689147235 source:c:\users\martin\desktop\programming\test_project\main.cpp
+	"mj_header.h"
+
+1689147235 c:\users\martin\desktop\programming\test_project\mj_header.h
+	<iostream>
+	<tchar.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	"wincon.h"
+	"mj_lib.h"
+
+1689147235 c:\users\martin\desktop\programming\test_project\mj_lib.h
+	<tchar.h>
+	<windows.h>
+	<winuser.h>
+	<stdio.h>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\opencv.hpp>
+
